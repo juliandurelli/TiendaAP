@@ -1,0 +1,57 @@
+.detalle-container{
+    background-color: #adadad;
+}
+
+.detalle-nombre{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.detalle-precio{
+    font-size: 27px;
+    font-weight: 900;
+}
+
+.detalle-contenido{
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.detalle-marca{
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.detalle-descripcion{
+    font-size:22px;
+    font-weight: 300;
+}
+
+.detalle-sku{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.detalle-cantidad{
+    font-size:20px;
+    font-weight: 300;
+}
+
+.detalle-texto{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.detalle-envio{
+    color:green;
+}
+
+.detalle-cuotas{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.detalle-vendedor{
+    font-size:20px;
+    font-weight: 400;
+}

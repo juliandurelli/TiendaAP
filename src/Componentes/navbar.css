@@ -1,0 +1,23 @@
+.navbar-container{
+    background-color: #0068E2;
+}
+
+.navbar-opciones{
+    font-size: 28px;
+    color: white;
+    font-weight: 600;
+    padding: 10px 10px;
+    height: auto;
+    text-decoration: none;
+}
+
+.navbar-opciones:hover{
+    cursor: pointer
+}
+
+.navbar-usuario{
+    color:white;
+    font-size: 22px;
+    font-weight: 400;
+    text-decoration: none;
+}

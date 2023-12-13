@@ -1,0 +1,38 @@
+.objeto-container{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.objeto-nombre{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.objeto-precio{
+    font-size:19px;
+    font-weight: 900;
+}
+
+.objeto-descripcion{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.objeto-sku{
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.objeto-cantidad{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.objeto-boton{
+    background-color:  #0068E2;
+}
+
+.objeto-img{
+    width: 200px;
+    height: 300px;
+}

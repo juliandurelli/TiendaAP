@@ -1,0 +1,59 @@
+.comprarpantalla-container{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.comprarpantalla-titulo{
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.comprarpantalla-nombre{
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.comprarpantalla-marca{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.comprarpantalla-cantidad{
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.comprarpantalla-sku{
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.comprarpantalla-descripcion{
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.comprarpantalla-ingrese{
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.comprarpantalla-input{
+
+}
+
+.comprarpantalla-preciounidad{
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.comprarpantalla-preciototal{
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.comprarpantalla-aviso{
+    color: red;
+    font-size: 17px;
+    font-weight: 400;
+}

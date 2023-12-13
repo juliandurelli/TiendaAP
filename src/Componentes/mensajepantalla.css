@@ -1,0 +1,15 @@
+.mensajepantalla-container{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.mensajepantalla-titulo{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+
+.mensajepantalla-mensaje{
+    font-size: 22px;
+    font-weight: 400;
+}

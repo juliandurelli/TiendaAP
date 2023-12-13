@@ -1,0 +1,15 @@
+.loginform-container{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.loginform-rojo{
+    color:red;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.loginform-titulo{
+    font-size: 30px;
+    font-weight: 300;
+}
